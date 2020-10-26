@@ -1,0 +1,23 @@
+Victor Manchola
+Edgar Portilla
+
+BOTIQUIN
+--------
+
+Para este botiquin, vamos a hacer la entrega de
+  "Semanas 7 y 8 En Filum Paso Obligado"
+donde necesitabamos entregar codigo funcionando
+con las 5 mallas de nuestro mundo en formato OBJ.
+No pudimos entregar esto a tiempo la vez pasada
+por varias complicaciones y una confusion sobre
+la fecha de entrega. Edgar esta muy ocupado con
+unas situaciones en casa y nosotros nos
+equivocamos sobre la fecha de entrega, y
+pensabamos que teniamos unos dias adicionales.
+
+Como esta entrega requiere que nosotros subamos
+nuestros avances a GitHub, se entregara
+este parrafo (como fue pedido en el Botiquin) y
+el vinculo al proyecto:
+
+https://github.com/EdrummerHero/ComputacionGrafica
