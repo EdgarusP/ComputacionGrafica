@@ -1,0 +1,43 @@
+﻿Build started 26/11/2020 8:47:21 a. m..
+     1>Project "C:\Users\Epshiilon\Desktop\proyecto computacion grafica\ComputacionGrafica-main\ComputacionGrafica-main\Proyecto\TemplateProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Ifreeglut/include /Iglew/include /Icwc/include /I"C:\Users\Epshiilon\Desktop\proyecto computacion grafica\ComputacionGrafica-main\ComputacionGrafica-main\Proyecto\/FreeImage" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D FREEGLUT_STATIC /D GLEW_STATIC /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\epshiilon\desktop\proyecto computacion grafica\computaciongrafica-main\computaciongrafica-main\proyecto\main.cpp(171): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\epshiilon\desktop\proyecto computacion grafica\computaciongrafica-main\computaciongrafica-main\proyecto\main.cpp(256): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\TemplateProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Epshiilon\Desktop\proyecto computacion grafica\ComputacionGrafica-main\ComputacionGrafica-main\Proyecto\/FreeImage" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib FreeImage.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\TemplateProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\TemplateProject.lib" /MACHINE:X86 /SAFESEH Debug\glApplication.obj
+         Debug\glsl.obj
+         Debug\glutwindow.obj
+         Debug\glWindow.obj
+         Debug\freeglut_callbacks.obj
+         Debug\freeglut_cursor.obj
+         Debug\freeglut_display.obj
+         Debug\freeglut_ext.obj
+         Debug\freeglut_font.obj
+         Debug\freeglut_font_data.obj
+         Debug\freeglut_gamemode.obj
+         Debug\freeglut_geometry.obj
+         Debug\freeglut_glutfont_definitions.obj
+         Debug\freeglut_init.obj
+         Debug\freeglut_joystick.obj
+         Debug\freeglut_main.obj
+         Debug\freeglut_menu.obj
+         Debug\freeglut_misc.obj
+         Debug\freeglut_overlay.obj
+         Debug\freeglut_state.obj
+         Debug\freeglut_stroke_mono_roman.obj
+         Debug\freeglut_stroke_roman.obj
+         Debug\freeglut_structure.obj
+         Debug\freeglut_teapot.obj
+         Debug\freeglut_videoresize.obj
+         Debug\freeglut_window.obj
+         Debug\glew.obj
+         Debug\glm.obj
+         Debug\main.obj
+         TemplateProject.vcxproj -> C:\Users\Epshiilon\Desktop\proyecto computacion grafica\ComputacionGrafica-main\ComputacionGrafica-main\Proyecto\Debug\TemplateProject.exe
+     1>Done Building Project "C:\Users\Epshiilon\Desktop\proyecto computacion grafica\ComputacionGrafica-main\ComputacionGrafica-main\Proyecto\TemplateProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.37
